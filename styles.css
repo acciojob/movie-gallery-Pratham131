@@ -1,2 +1,5 @@
 
 /* Your CSS Code here. */
+.container-fluid .row .col img {
+	padding: 2%;
+}
